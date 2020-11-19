@@ -1,0 +1,15 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+}
+
+pre {
+    display: inline;
+    background: lightgray;
+    border-radius: 2px;
+    padding: 0 0.25rem;
+}

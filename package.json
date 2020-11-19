@@ -1,0 +1,27 @@
+{
+  "name": "reactivity-in-js-frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "parcel -p 2345 src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lscheibel/reactivity-in-js-frameworks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lscheibel/reactivity-in-js-frameworks/issues"
+  },
+  "homepage": "https://github.com/lscheibel/reactivity-in-js-frameworks#readme",
+  "devDependencies": {
+    "sass": "^1.29.0"
+  },
+  "dependencies": {
+    "s-js": "^0.4.9"
+  }
+}
